@@ -1,0 +1,57 @@
+[ {
+  "id" : "R1",
+  "name" : "Route 1",
+  "stops" : [ {
+    "stationId" : "S2",
+    "departureTime" : "08:15",
+    "arrivalTime" : "08:00"
+  }, {
+    "stationId" : "S1",
+    "departureTime" : "09:15",
+    "arrivalTime" : "09:00"
+  }, {
+    "stationId" : "S5",
+    "departureTime" : "10:15",
+    "arrivalTime" : "10:00"
+  } ]
+}, {
+  "id" : "R2",
+  "name" : "Route 2",
+  "stops" : [ {
+    "stationId" : "S4",
+    "departureTime" : "07:45",
+    "arrivalTime" : "07:30"
+  }, {
+    "stationId" : "S1",
+    "departureTime" : "08:45",
+    "arrivalTime" : "08:30"
+  }, {
+    "stationId" : "S3",
+    "departureTime" : "09:45",
+    "arrivalTime" : "09:30"
+  } ]
+}, {
+  "id" : "R3",
+  "name" : "Route 3",
+  "stops" : [ {
+    "stationId" : "S1",
+    "departureTime" : "09:30",
+    "arrivalTime" : "09:00"
+  }, {
+    "stationId" : "S4",
+    "departureTime" : "10:50",
+    "arrivalTime" : "10:10"
+  }, {
+    "stationId" : "S5",
+    "departureTime" : "12:50",
+    "arrivalTime" : "11:40"
+  } ]
+}, {
+  "id" : "R4",
+  "name" : "Route 4",
+  "stops" : [ {
+    "stationId" : "S1",
+    "departureTime" : "09:10",
+    "arrivalTime" : "09:00"
+  } ]
+} ]

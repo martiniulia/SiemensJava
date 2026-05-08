@@ -1,0 +1,73 @@
+[ {
+  "id" : "81001bc6-cdec-45bc-a789-dbba6882b818",
+  "customerName" : "Mara",
+  "customerEmail" : "maria@test.com",
+  "trainId" : "T1",
+  "fromStationId" : null,
+  "toStationId" : null,
+  "seatNumbers" : [ 1, 2, 3 ],
+  "bookingDateTime" : "2026-05-08T18:09:40.178698800"
+}, {
+  "id" : "89e61a99-d3e0-4efe-8f77-e11196075839",
+  "customerName" : "ana",
+  "customerEmail" : "anat@test",
+  "trainId" : "T1",
+  "fromStationId" : "S3",
+  "toStationId" : "S2",
+  "seatNumbers" : [ 4, 5 ],
+  "bookingDateTime" : "2026-05-08T18:48:44.157661500"
+}, {
+  "id" : "bbb9057c-3e1d-47e6-a9d1-1cf37cf3c725",
+  "customerName" : "ana",
+  "customerEmail" : "ana@test",
+  "trainId" : "T1",
+  "fromStationId" : "S2",
+  "toStationId" : "S5",
+  "seatNumbers" : [ 6, 7, 8, 9, 10 ],
+  "bookingDateTime" : "2026-05-08T19:02:31.500728500"
+}, {
+  "id" : "4df0f764-f8d9-49ef-875e-57a67f6900cd",
+  "customerName" : "Test User",
+  "customerEmail" : "test@test.com",
+  "trainId" : "T1",
+  "fromStationId" : "S2",
+  "toStationId" : "S5",
+  "seatNumbers" : [ 11 ],
+  "bookingDateTime" : "2026-05-08T19:29:24.910660800"
+}, {
+  "id" : "2ae7addd-3c5a-416f-a241-182fab6e5650",
+  "customerName" : "Test User",
+  "customerEmail" : "test@test.com",
+  "trainId" : "T1",
+  "fromStationId" : "S2",
+  "toStationId" : "S5",
+  "seatNumbers" : [ 12 ],
+  "bookingDateTime" : "2026-05-08T19:33:06.541120900"
+}, {
+  "id" : "16989e98-d0e2-4463-bd39-3dfaa964d5bd",
+  "customerName" : "Maria",
+  "customerEmail" : "maria@test.com",
+  "trainId" : "T1",
+  "fromStationId" : "S2",
+  "toStationId" : "S5",
+  "seatNumbers" : [ 13, 14 ],
+  "bookingDateTime" : "2026-05-08T19:40:50.138818200"
+}, {
+  "id" : "21d6282d-99c1-465f-af87-963f68944d2b",
+  "customerName" : "Maria",
+  "customerEmail" : "maria@test.com",
+  "trainId" : "T1",
+  "fromStationId" : "S2",
+  "toStationId" : "S1",
+  "seatNumbers" : [ 15, 16 ],
+  "bookingDateTime" : "2026-05-08T19:43:22.226853"
+}, {
+  "id" : "de59e604-991c-4f02-81a7-83037f437bed",
+  "customerName" : "Maria",
+  "customerEmail" : "maria@test.com",
+  "trainId" : "T2",
+  "fromStationId" : "S4",
+  "toStationId" : "S3",
+  "seatNumbers" : [ 1, 2 ],
+  "bookingDateTime" : "2026-05-08T19:45:54.158202600"
+} ]

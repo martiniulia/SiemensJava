@@ -1,0 +1,21 @@
+[ {
+  "id" : "T1",
+  "name" : "Train 1",
+  "totalSeats" : 200,
+  "routeId" : "R1"
+}, {
+  "id" : "T2",
+  "name" : "Train 2",
+  "totalSeats" : 100,
+  "routeId" : "R2"
+}, {
+  "id" : "T3",
+  "name" : "Train 3",
+  "totalSeats" : 150,
+  "routeId" : "R3"
+}, {
+  "id" : "T4",
+  "name" : "Train 4",
+  "totalSeats" : 100,
+  "routeId" : "R4"
+} ]
