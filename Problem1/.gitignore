@@ -27,3 +27,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+apache-maven-*/
+maven.zip

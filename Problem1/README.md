@@ -4,6 +4,18 @@ A console-based Java application for managing train routes and booking tickets.
 
 ---
 
+## Getting Started
+
+### Configuration
+Before running the application, you **must** update the configuration file to enable email notifications:
+* Open `config.properties` in the root folder.
+* Update the following fields with your SMTP email credentials:
+  * `mail.username`: Your email address.
+  * `mail.password`: Your email app password.
+  * `mail.from`: The email address for the sender.
+
+---
+
 ## Architecture & Class Roles
 
 The project is structured using a standard Layered Architecture pattern, ensuring that each class has a single responsibility.
